@@ -1,5 +1,5 @@
 """
-This scripts generates a slideshow for a specified notebook.
+This scripts generates a slideshow from a specified notebook.
 
 Usage:
 python slides.py Lecture_X
