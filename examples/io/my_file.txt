@@ -1,0 +1,4 @@
+Any text can be sent to the file...
+And more than one line!
+Remember to close the file when you're finished!
+This line was added in the append ('a') mode.
